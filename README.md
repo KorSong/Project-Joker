@@ -6,4 +6,3 @@
 Vue.js 
 Bootstrap-Vue
 Nuxt.js# ProjectJoker
-# ProjectJoker
